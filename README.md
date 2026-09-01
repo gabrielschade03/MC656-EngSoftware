@@ -4,3 +4,4 @@ Membros:
 - Lucas Mantovani Boaro - 281303
 - Gabriel Saia Schade - 281202
 - Bruno Amaral Salles de Moraes - 281129
+- Fernando de Almeida Maciel Penido - 281180
